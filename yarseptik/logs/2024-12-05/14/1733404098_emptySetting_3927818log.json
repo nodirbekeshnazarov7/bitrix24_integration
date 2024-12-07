@@ -1,0 +1,1 @@
+{"params":{"method":"crm.lead.add","params":{"fields":{"TITLE":null,"NAME":null,"PHONE":[{"VALUE":null,"VALUE_TYPE":"WORK"}],"EMAIL":[{"VALUE":null,"VALUE_TYPE":"WORK"}]}}}}

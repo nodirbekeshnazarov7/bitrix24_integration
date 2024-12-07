@@ -1,0 +1,1 @@
+{"params":{"method":"crm.lead.add","params":{"fields":{"TITLE":"new_lead","NAME":"Eldorjon","PHONE":[{"VALUE":"777","VALUE_TYPE":"WORK"}],"EMAIL":[{"VALUE":"eldorjon@ma.il","VALUE_TYPE":"WORK"}]}}}}
